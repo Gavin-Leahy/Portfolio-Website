@@ -14,13 +14,13 @@ export default function FooterSection() {
           </div>
 
           <div className="flex items-center gap-6">
-            <a href="https://stacksmesh.com" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">leahgc01@purdue.edu
+            <a href="https://www.linkedin.com/in/gavin-leahy/" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">leahgc01@purdue.edu
 
             </a>
-            <a href="https://pk.linkedin.com/company/stacksmesh" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">
+            <a href="https://www.linkedin.com/in/gavin-leahy/" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">
               LinkedIn
             </a>
-            <a href="https://stacksmesh.com/assessment/" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">(260)-418-0837
+            <a href="https://www.linkedin.com/in/gavin-leahy/" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">(260)-418-0837
 
             </a>
           </div>
