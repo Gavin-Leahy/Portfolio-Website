@@ -126,11 +126,11 @@ export default function ContactSection() {
         </motion.div>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mt-10">
-          <a href="https://stacksmesh.com/assessment/" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">leahgc01@purdue.edu
+          <a href="https://www.linkedin.com/in/gavin-leahy/" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">leahgc01@purdue.edu
 
           </a>
           <span className="hidden sm:block text-black/10">|</span>
-          <a href="https://pk.linkedin.com/company/stacksmesh" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">
+          <a href="https://www.linkedin.com/in/gavin-leahy/" target="_blank" rel="noopener noreferrer" className="font-body text-sm text-ink_soft hover:text-ink transition-colors">
             LinkedIn →
           </a>
           <span className="hidden sm:block text-black/10">|</span>
