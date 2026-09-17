@@ -6,7 +6,7 @@ const PROJECT = {
   title: "Rocket Tower",
   category: "Mechanical Design",
   image:
-    "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1600&q=80",
+    "public/images/Bell Tower.png",
   overview:
     "The Bell Tower Rocket was a project done to celebrate Purdue University's 150th anniversary. This project combines Purdue's themes of space exploration with its famous Bell Tower.",
   highlights: [
