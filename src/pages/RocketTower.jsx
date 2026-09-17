@@ -23,8 +23,9 @@ export default function RocketTower() {
       {...PROJECT}
       extra={
         <>
-          <YouTubeEmbed storageKey="rocket-tower-video" />
+          <YouTubeEmbed videoId="YOUR_VIDEO_ID" label="Rocket Tower Demo" />
         </>
+      }
       }
     />
   );
