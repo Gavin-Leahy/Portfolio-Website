@@ -22,7 +22,7 @@ export default function MP3Player() {
     <ProjectDetailLayout
       {...PROJECT}
       extra={
-        <YouTubeEmbed videoId="YOUR_GARDEN_VIDEO_ID" label="Garden Watering System Demo" />
+        <YouTubeEmbed videoId="P22Dx2LRQP8" label="Garden Watering System Demo" />
       }
     />
   );
