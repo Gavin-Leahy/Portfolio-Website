@@ -28,6 +28,7 @@ export default function RocketTower() {
   return (
     <ProjectDetailLayout
       {...PROJECT}
+      imageAspect="3/4"
       extra={
         <>
           <YouTubeEmbed
