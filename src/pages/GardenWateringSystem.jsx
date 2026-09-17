@@ -23,7 +23,7 @@ export default function GardenWateringSystem() {
     <ProjectDetailLayout
       {...PROJECT}
       extra={
-        <YouTubeEmbed videoId="YOUR_GARDEN_VIDEO_ID" label="Garden Watering System Demo" />
+        <YouTubeEmbed videoId="uwkPdy78fHA" label="Garden Watering System Demo" />
       }
     />
   );
