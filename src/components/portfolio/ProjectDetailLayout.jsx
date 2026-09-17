@@ -5,7 +5,7 @@ import { ArrowLeft } from "lucide-react";
 import Navbar from "@/components/portfolio/Navbar";
 import FooterSection from "@/components/portfolio/FooterSection";
 
-export default function ProjectDetailLayout({ title, category, image, overview, highlights, tech, extra }) {
+export default function ProjectDetailLayout({ title, category, image, imageAspect = "16/9", overview, highlights, tech, extra }) {
   return (
     <div className="bg-obsidian min-h-screen">
       <Navbar />
@@ -40,7 +40,12 @@ export default function ProjectDetailLayout({ title, category, image, overview, 
             transition={{ delay: 0.2 }}
             className="rounded-3xl overflow-hidden border border-black/5 mb-14">
             
-            <img src={image} alt={title} className="w-full aspect-[16/9] object-cover" />
+            <img 
+              src={image}
+              alt={title}
+              className="w-full object-cover"
+              style={{ aspectRatio: imageAspect }}
+            />
           </motion.div>
 
           <div className="grid md:grid-cols-3 gap-10">
